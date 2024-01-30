@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning javascript, vue.js, react.js, node.js, express.js, and mongoDB
 - 📫 How to reach me: wahyupratama191@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyuPM)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyuPM&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuPM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuPM&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
